@@ -1,0 +1,29 @@
+{
+  "name": "express-js-server-side-framework-claudebrilliant",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudeBrilliant/express-js-server-side-framework-ClaudeBrilliant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ClaudeBrilliant/express-js-server-side-framework-ClaudeBrilliant/issues"
+  },
+  "homepage": "https://github.com/ClaudeBrilliant/express-js-server-side-framework-ClaudeBrilliant#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^13.0.0"
+  }
+}
